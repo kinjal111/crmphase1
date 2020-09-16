@@ -1,0 +1,80 @@
+{
+  "_from": "react-native-dynamic-form",
+  "_id": "react-native-dynamic-form@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-yR/tFF9NtuXONxy7rUf/SuyOVryT5Q4HAiAaKNGlYS0tYvzRYpXZbDWh0osYqFaV6gH3ABrSlULBHmdaGJtnfQ==",
+  "_location": "/react-native-dynamic-form",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-dynamic-form",
+    "name": "react-native-dynamic-form",
+    "escapedName": "react-native-dynamic-form",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-dynamic-form/-/react-native-dynamic-form-0.0.1.tgz",
+  "_shasum": "5abc0ca10fd1d23cd5eb4e080ee0480fc115892a",
+  "_spec": "react-native-dynamic-form",
+  "_where": "/Users/apple/Nextcloud/Vicky Work Files/Mobile App Codes/CrystalDashWithCli/CrystalDash",
+  "author": {
+    "name": "Mustapha Babatunde",
+    "email": "toystars2008@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/toystars/react-native-dynamic-form/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "moment": "^2.22.1",
+    "prop-types": "^15.6.1",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-material-ui": "^1.22.3",
+    "react-native-multiple-select": "^0.4.4",
+    "react-native-star-rating": "^1.0.9"
+  },
+  "deprecated": false,
+  "description": "Dynamic form builder for React Native",
+  "devDependencies": {
+    "babel-eslint": "^8.2.3",
+    "babel-jest": "22.4.3",
+    "babel-plugin-module-resolver": "^3.1.1",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-react-native": "4.0.0",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-nibble": "^4.2.1",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.7.0",
+    "jest": "22.4.3",
+    "jest-react-native": "^18.0.0",
+    "pre-commit": "^1.2.2",
+    "react-test-renderer": "16.3.1"
+  },
+  "homepage": "https://github.com/toystars/react-native-dynamic-form#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-dynamic-form",
+  "peerDependencies": {
+    "react": "^16.3.2",
+    "react-native": "^0.55.4",
+    "react-native-vector-icons": "^4.6.0"
+  },
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/toystars/react-native-dynamic-form.git"
+  },
+  "scripts": {
+    "lint": "eslint lib/"
+  },
+  "version": "0.0.1"
+}
